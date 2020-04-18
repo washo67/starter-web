@@ -18,3 +18,7 @@ Easy to deploy !!!!!!!
 ## How to contribute
 
 Pas besoin je sui un boss ;p
+
+### Copyright
+
+GIT Training
