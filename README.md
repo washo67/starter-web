@@ -13,4 +13,8 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+Easy to deploy !!!!!!!
+
 ## How to contribute
+
+Pas besoin je sui un boss ;p
