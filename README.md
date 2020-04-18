@@ -17,7 +17,8 @@ Easy to deploy !!!!!!!
 
 ## How to contribute
 
-Pas besoin je sui un boss ;p
+faire un pull (ne pas le tricotter)
+Pas besoin je suis un boss ;p
 
 ### Copyright
 
