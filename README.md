@@ -23,4 +23,4 @@ Pas besoin je suis un boss ;p
 
 ### Copyright
 
-GIT Training
+GIT Training. All rights reserved
